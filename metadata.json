@@ -1,0 +1,6 @@
+{
+  "name": "PDF Editor",
+  "description": "A browser-based client-side PDF Editor with text overlays, freehand drawing, highlights, redactions, and accurate PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
